@@ -1,0 +1,8 @@
+
+https://qiita.com/daisukeoda/items/9a8924b16c1dafcbc5f9
+https://qiita.com/c60evaporator/items/2f24d4796202e8b06a77
+https://baresupport.jp/blog/2023/04/10/197/ 
+VPC（Amazon Virtual Private Cloud：AWSの仮想ネットワーク）上に構築したAmazon EC2などのリソースに対して適用できる仮想ファイアウォール機能
+https://www.wafcharm.com/jp/blog/alb-for-beginners/
+
+https://www.youtube.com/watch?v=7J_crzU5KP8
